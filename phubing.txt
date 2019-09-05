@@ -1,6 +1,7 @@
 hello phubing
 
 hello branch edit by branch
+hello branch  edit by master
 
 hello news
 
